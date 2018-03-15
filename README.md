@@ -32,7 +32,7 @@
 [![](http://img.youtube.com/vi/RWcJvm7dkPc/0.jpg)](https://www.youtube.com/watch?v=RWcJvm7dkPc)
 
 ### Contributer
-![](https://drive.google.com/open?id=11XQFgtEvOsWKzopLHvUJcjovUu_vvwKA)
+![](http://drive.google.com/uc?export=view&id=11XQFgtEvOsWKzopLHvUJcjovUu_vvwKA)
 
 * `정현우` email: chaosphch@gmail.com, github: https://github.com/chphch
 * `원지운` email: wonjiwn@naver.com, github: https://github.com/JWWon
